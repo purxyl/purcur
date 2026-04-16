@@ -8,7 +8,7 @@ This cursor pack is a collection of dark-themed cursors designed by myself, Purx
 
 Grab a [release of Purxyl's Cursors]() via the release page on the Github repository.
 
-Once downloaded, you can install it by right-clicking on the `install.inf` file and selecting "Install". This will add the cursors to your system, and you can then select them from your mouse settings.
+Once downloaded, you can install it by going into your cursors settings and creating a new cursor scheme.
 
 <!-- ## ![ICON](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) Do you like it?
 
